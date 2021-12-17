@@ -1,4 +1,4 @@
-# Advanced Web Applications Sprint Challenge
+# Advanced Web Applications Sprint Challenge foo
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -40,7 +40,7 @@ In this project, you will demonstrate your mastery of these skills by creating *
 {
     id: 'aMqwd', //unique article id
     headline: "headline", //title of article
-    createdOn: '2021-08-09T18:02:38-04:00 
+    createdOn: '2021-08-09T18:02:38-04:00
 ', //timestamp of when article was added
     summary: "summary", //short summary statement of article
       body: ""  //paragraph of article text
